@@ -7,7 +7,7 @@
 // @match        https://www.naughtymachinima.com/video/*
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/machiavel23/Userscripts/main/NMPVU%20(Naughty%20Machinima%20Private%20Videos%20Unlocker).user.js
-// @updateURL    https://raw.githubusercontent.com/machiavel23/Userscripts/main/NMPVU%20(Naughty%20Machinima%20Private%20Videos%20Unlocker).user.js
+// @updateURL    https://raw.githubusercontent.com/machiavel23/Userscripts/main/NMPVU%20(Naughty%20Machinima%20Private%20Videos%20Unlocker).meta.js
 // ==/UserScript==
 
 (function() {
