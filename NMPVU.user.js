@@ -32,7 +32,7 @@
 
         // Adding links in textDanger
         if (textDanger) {
-            textDanger.innerHTML += '<br><br>View the video with NMPVU userscript:<br><a href="' + newURL + '_1080p.mp4">1080p</a> - <a href="' + newURL + '_720p.mp4">720p</a> - <a href="' + newURL + '_480p.mp4">480p</a> - <a href="' + newURL + '_360p.mp4">360p</a><br>Keep in mind not all videos have been uploaded in HD. Try a lower resolution if you reach a 404.';
+            textDanger.innerHTML += '<br><br>View the video with NMPVU userscript:<br><a href="' + newURL + '_1080p.mp4" target="_blank">1080p</a> - <a href="' + newURL + '_720p.mp4" target="_blank">720p</a> - <a href="' + newURL + '_480p.mp4" target="_blank">480p</a> - <a href="' + newURL + '_360p.mp4" target="_blank">360p</a><br>Keep in mind not all videos have been uploaded in HD. Try a lower resolution if you reach a 404.';
         }
     }
 })();
