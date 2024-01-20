@@ -6,6 +6,7 @@
 // @author       Machiavel Dhy'v
 // @match        https://www.naughtymachinima.com/video/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/machiavel23/Userscripts/main/NMPVU%20(Naughty%20Machinima%20Private%20Videos%20Unlocker).user.js
 // ==/UserScript==
 
 (function() {
