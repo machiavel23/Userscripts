@@ -4,7 +4,7 @@
 // @version      0.2
 // @description  Adds a link to access private videos
 // @author       Machiavel Dhy'v
-// @match        https://www.naughtymachinima.com/video/*
+// @match        https://www.naughtymachinima.com/*
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/machiavel23/Userscripts/main/NMPVU.user.js
 // @updateURL    https://raw.githubusercontent.com/machiavel23/Userscripts/main/NMPVU.meta.js
@@ -12,7 +12,15 @@
 
 (function() {
     'use strict';
+    
+    // Sélectionner tous les éléments <img> avec la classe "img-responsive img-private"
+    var imgElements = document.querySelectorAll('img.img-responsive.img-private');
 
+    // Parcourir tous les éléments sélectionnés
+    imgElements.forEach(function(imgElement) {
+        // Modifier la classe en "img-responsive"
+        imgElement.classList.remove('img-private');
+});
     // Get current url
     var currentURL = window.location.href;
 
