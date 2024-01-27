@@ -7,7 +7,7 @@
 // @match        https://www.naughtymachinima.com/*
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/machiavel23/Userscripts/main/NMPVU.user.js
-// @updateURL    https://raw.githubusercontent.com/machiavel23/Userscripts/main/NMPVU.user.js
+// @updateURL    https://raw.githubusercontent.com/machiavel23/Userscripts/main/NMPVU.meta.js
 // ==/UserScript==
 
 (function() {
