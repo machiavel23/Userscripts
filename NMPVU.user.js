@@ -19,7 +19,7 @@
     imgElements.forEach(function(imgElement) {
         // Removing blur
         imgElement.classList.remove('img-private');
-});
+    });
     
     // ENABLING PRIVATE VIDEOS
     // Get current url
