@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         NMPVU (Naughty Machinima Private Videos Unlocker)
 // @namespace    https://www.github.com/machiavel23
-// @version      1.1
+// @version      1.0
 // @description  Adds a link to access private videos
 // @author       Machiavel Dhy'v
 // @match        https://www.naughtymachinima.com/*
 // @grant        none
-// @downloadURL  https://github.com/machiavel23/Userscripts/raw/main/NMPVU.user.js
-// @updateURL    https://github.com/machiavel23/Userscripts/raw/main/NMPVU.user.js
+// @downloadURL  https://raw.githubusercontent.com/machiavel23/Userscripts/main/NMPVU.user.js
+// @updateURL    https://raw.githubusercontent.com/machiavel23/Userscripts/main/NMPVU.user.js
 // ==/UserScript==
 
 (function() {
